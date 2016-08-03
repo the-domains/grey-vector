@@ -1,0 +1,14 @@
+layout_spectrum: 0.5245492975227535
+typography_spectrum: 0.5349967861548066
+color:
+  brandStrength: 0.9852206620853394
+  lightness: 0.5598104095552117
+  saturation: 0.45052299834787846
+  rhythmicContrast: 0.9529390363022685
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Grey Vector
